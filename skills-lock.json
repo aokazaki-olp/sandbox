@@ -33,6 +33,12 @@
       "skillPath": "skills/knap/SKILL.md",
       "computedHash": "e376a3f24ed9c48a00afff39372dae304e18c89f5c8bd69d4d6e1819d6333145"
     },
+    "migrate-radix-to-base": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "skillPath": "skills/migrate-radix-to-base/SKILL.md",
+      "computedHash": "e1f2030ee5059be3dff0812ca0e4b995ee9fa3132176f049ebe6c90346a6755e"
+    },
     "obsidian-bases": {
       "source": "kepano/obsidian-skills",
       "sourceType": "github",
@@ -78,6 +84,12 @@
       "sourceType": "github",
       "skillPath": "skills/research-workflow/SKILL.md",
       "computedHash": "416f9fbdce9336485315ec01ff3d642eda926c403bca7bf86a5f7ffb5fe0cf0c"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "b864a958765563321f485a96f4d59c0bb6539f4286ab6d8b8b66895b7ebd302d"
     },
     "skill-builder": {
       "source": "aokazaki-olp/agent-skills",
